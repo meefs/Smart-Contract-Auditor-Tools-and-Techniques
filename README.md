@@ -10,7 +10,6 @@
 * [Bitquery Explorer](https://explorer.bitquery.io/ethereum/address/0x58f56615180a8eea4c462235d9e215f72484b4a3/graph?theme=dark)
 * [Tx eth samczsun](https://tx.eth.samczsun.com/)
 * [Tenderly](https://tenderly.co/)
-* [Cruise Supremacy](https://cruise.supremacy.team)
 * [Cross-chain transaction tracker](https://socketscan.io/)
 * [Front-running explorer](https://zeromev.org/)
 * [Awesome On-chain Investigation](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List/tree/main)
@@ -27,6 +26,15 @@
 * [Day-1 Full playlist](https://www.youtube.com/watch?v=tWojwCCHg1E&list=PL5r4vTR0gHj6u8Hn71bYIgu9T_qJLbkNG)
 * [Day-2 Full playlist](https://www.youtube.com/watch?v=eUbqrSpu3ps&list=PL5r4vTR0gHj4tfB3LoDCkBIXDITlyC2o7)
 * [Day-3 Full playlist](https://www.youtube.com/watch?v=XcpjY0fg1Tk&list=PL5r4vTR0gHj5swo6_ix2m8faA4OCIg7K1)
+
+
+## AI based tools for Securing Smart contracts and AI agents
+[Comprehensive List of AI based tools for auditing - by Pashov](https://github.com/pashov/ai-web3-security)
+[Bumblebee - A Read only Scanner to prevent Supply chain attacks - by Perplexity AI](https://github.com/perplexityai/bumblebee)
+[Agentic Stack for Solidity development](https://telegra.ph/Agentic-Stack-for-Solidity-Development-2026-06-09)
+[Damn Vulnerable AI Platform for Agentic Security](https://github.com/sonuoffsec/DVAP)
+[LLM security for AI agents](https://github.com/GURPREETKAURJETHRA/LLM-SECURITY)
+[Awesome LLM Security - by Corca AI](https://github.com/corca-ai/awesome-llm-security)
 
 ## Miscellaneous Tools
 * [Cyfrin Solodit - Smart contract security research](https://solodit.xyz)
@@ -261,4 +269,5 @@ https://www.mamoru.ai/)
 * [Deconstructing a Solidity contract series (to understand and debug byte level code)](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)
 * [Solidity Notes by Chinmaya](https://github.com/chinmay-farkya/solidity-notes)
 * [Formal verification Speedrun with Halmos, Kontrol and Certora](https://youtu.be/pjwYr97Q-Ok?si=2uGujm-p4be8mcdN)
+* [Awesome Web3 Formal Verification](https://github.com/johnsonstephan/awesome-web3-formal-verification)
 * [Ethereum Cypherphunk Manifesto](https://hackmd.io/@pcaversaccio/the-ethereum-cypherpunk-manifesto)
