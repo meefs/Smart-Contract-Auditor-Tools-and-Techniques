@@ -29,12 +29,12 @@
 
 
 ## AI based tools for Securing Smart contracts and AI agents
-[Comprehensive List of AI based tools for auditing - by Pashov](https://github.com/pashov/ai-web3-security)
-[Bumblebee - A Read only Scanner to prevent Supply chain attacks - by Perplexity AI](https://github.com/perplexityai/bumblebee)
-[Agentic Stack for Solidity development](https://telegra.ph/Agentic-Stack-for-Solidity-Development-2026-06-09)
-[Damn Vulnerable AI Platform for Agentic Security](https://github.com/sonuoffsec/DVAP)
-[LLM security for AI agents](https://github.com/GURPREETKAURJETHRA/LLM-SECURITY)
-[Awesome LLM Security - by Corca AI](https://github.com/corca-ai/awesome-llm-security)
+* [Comprehensive List of AI based tools for auditing - by Pashov](https://github.com/pashov/ai-web3-security)
+* [Bumblebee - A Read only Scanner to prevent Supply chain attacks - by Perplexity AI](https://github.com/perplexityai/bumblebee)
+* [Agentic Stack for Solidity development](https://telegra.ph/Agentic-Stack-for-Solidity-Development-2026-06-09)
+* [Damn Vulnerable AI Platform for Agentic Security](https://github.com/sonuoffsec/DVAP)
+* [LLM security for AI agents](https://github.com/GURPREETKAURJETHRA/LLM-SECURITY)
+* [Awesome LLM Security - by Corca AI](https://github.com/corca-ai/awesome-llm-security)
 
 ## Miscellaneous Tools
 * [Cyfrin Solodit - Smart contract security research](https://solodit.xyz)
